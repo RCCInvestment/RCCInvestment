@@ -1,3 +1,4 @@
-def test_func():
-    print 'hello world'
-test_func()
+def print_func(m):
+    print m
+print_func('test')
+ 
