@@ -1,4 +1,3 @@
-def new_func():
+def test_func():
     print 'hello world'
-
-new_func()
+test_func()
